@@ -27,15 +27,735 @@
     },
     "done": true
   },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-05-08 13:16:39 +0300"
+    },
+    "done": true
+  },
   "create:track_0": {
     "criteria": {
       "0": "2026-05-08 13:18:10 +0300"
     },
     "done": true
   },
-  "railways:root": {
+  "copycats:recipes/crafting/copycat_layer_from_half_layers": {
     "criteria": {
-      "0": "2026-05-08 13:16:39 +0300"
+      "has_item": "2026-05-08 18:13:37 +0300"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_panel_from_half_panels": {
+    "criteria": {
+      "has_item": "2026-05-08 18:13:37 +0300"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_half_layer_from_conversion": {
+    "criteria": {
+      "has_item": "2026-05-08 18:13:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2026-05-08 18:13:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-05-08 18:13:59 +0300"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_step_from_conversion": {
+    "criteria": {
+      "has_item": "2026-05-08 18:14:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-05-08 18:14:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-05-08 18:14:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-05-08 18:14:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-05-08 18:36:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-05-08 18:36:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2026-05-08 18:36:08 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/lime_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/brown_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/orange_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/lime_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/white_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/red_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_gray_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_blue_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/yellow_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_gray_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/red_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/blue_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/orange_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/orange_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/blue_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/yellow_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/purple_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/magenta_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/gray_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/blue_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/pink_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/green_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/green_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/purple_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_blue_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/white_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/lime_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/magenta_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/gray_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_blue_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/purple_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/magenta_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/red_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/pink_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/cyan_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/lime_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_blue_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/yellow_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/black_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/red_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/pink_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/yellow_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/purple_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/blue_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/pink_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/orange_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/magenta_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/brown_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/cyan_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair_from_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/black_chair": {
+    "criteria": {
+      "has_seat": "2026-05-08 18:37:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2026-05-08 18:37:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-05-08 18:37:53 +0300"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2026-05-08 18:38:13 +0300"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2026-05-08 18:38:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 18:45:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-05-08 18:45:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 18:45:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 18:45:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 18:45:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 18:45:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2026-05-08 18:45:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 18:45:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 18:45:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-05-08 18:45:09 +0300"
     },
     "done": true
   },
