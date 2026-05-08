@@ -1,0 +1,43 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-05-08 13:12:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2026-05-08 13:14:06 +0300",
+      "minecraft:frozen_river": "2026-05-08 13:14:41 +0300",
+      "minecraft:snowy_taiga": "2026-05-08 13:12:37 +0300",
+      "minecraft:frozen_ocean": "2026-05-08 13:18:06 +0300",
+      "minecraft:snowy_beach": "2026-05-08 13:12:58 +0300"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-05-08 13:14:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2026-05-08 13:14:41 +0300"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2026-05-08 13:18:10 +0300"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-05-08 13:16:39 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

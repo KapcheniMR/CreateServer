@@ -1,0 +1,395 @@
+[08мая2026 13:16:17.185] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[08мая2026 13:16:17.190] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.8 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[08мая2026 13:16:17.446] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08мая2026 13:16:17.507] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/nnjkb/OneDrive/Рабочий%20стол/Новая%20папка/CreateServer/Server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[08мая2026 13:16:17.725] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\nnjkb\OneDrive\Рабочий стол\Новая папка\CreateServer\Server\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.20\fmlcore-1.20.1-47.4.20.jar is missing mods.toml file
+[08мая2026 13:16:17.728] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\nnjkb\OneDrive\Рабочий стол\Новая папка\CreateServer\Server\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.20\javafmllanguage-1.20.1-47.4.20.jar is missing mods.toml file
+[08мая2026 13:16:17.730] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\nnjkb\OneDrive\Рабочий стол\Новая папка\CreateServer\Server\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.20\lowcodelanguage-1.20.1-47.4.20.jar is missing mods.toml file
+[08мая2026 13:16:17.732] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\nnjkb\OneDrive\Рабочий стол\Новая папка\CreateServer\Server\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.20\mclanguage-1.20.1-47.4.20.jar is missing mods.toml file
+[08мая2026 13:16:17.889] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[08мая2026 13:16:18.843] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08мая2026 13:16:18.854] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[08мая2026 13:16:19.435] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[08мая2026 13:16:23.075] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.8 initializing! Commit hash: 1a1a9a2819b4f89f78caec41b55ed8cb222fa24b
+[08мая2026 13:16:23.096] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.7.2 initializing! Commit hash: 7c1a21e3a4edbd6b5f1301f82a8bfbeb5fdb1444 on Create version: 6.0.8 on platform: Forge
+[08мая2026 13:16:23.097] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.20, for MC 1.20.1 with MCP 20230612.114412
+[08мая2026 13:16:23.097] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.20 Initialized
+[08мая2026 13:16:23.832] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[08мая2026 13:16:24.003] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[08мая2026 13:16:24.010] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 1 milliseconds
+[08мая2026 13:16:24.011] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:track_signal in minecraft:block_entity_type
+[08мая2026 13:16:24.011] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:track_signal_source in create:display_source
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:copycat in minecraft:block_entity_type
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:conductor_vent in minecraft:block
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:brown_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:brown_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:brown_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.013] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:maroon_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:maroon_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:maroon_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:red_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:red_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:red_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:vermilion_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:vermilion_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:vermilion_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:orange_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:orange_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:orange_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.014] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:granite_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:granite_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:granite_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:dripstone_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:dripstone_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:dripstone_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:ochrum_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.016] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:ochrum_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:ochrum_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:yellow_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:yellow_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:yellow_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:chartreuse_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:chartreuse_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.017] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:chartreuse_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.018] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.018] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:olive_green_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.018] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.018] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:olive_green_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.018] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:olive_green_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:lime_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:lime_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:lime_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:green_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:green_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:green_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pine_green_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pine_green_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pine_green_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:cyan_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:cyan_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.019] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:cyan_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:sea_green_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:sea_green_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:sea_green_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:turquoise_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:turquoise_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:turquoise_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_blue_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_blue_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.021] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_blue_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:blue_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:blue_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:blue_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:royal_blue_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:royal_blue_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:royal_blue_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:purple_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:purple_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:purple_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.022] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:magenta_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:magenta_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:magenta_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pink_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pink_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pink_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:white_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.024] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:white_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:white_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:diorite_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:diorite_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:diorite_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:limestone_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.025] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:limestone_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:limestone_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_gray_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_gray_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_gray_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:tuff_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.026] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:tuff_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.027] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.027] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:tuff_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.027] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.027] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:gray_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.027] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:gray_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:gray_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:scorchia_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:scorchia_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:scorchia_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:black_locometal_flywheel in minecraft:block
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:black_sliding_locometal_door in minecraft:block
+[08мая2026 13:16:24.028] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[08мая2026 13:16:24.029] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:black_folding_locometal_door in minecraft:block
+[08мая2026 13:16:24.032] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[08мая2026 13:16:24.032] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[08мая2026 13:16:24.033] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[08мая2026 13:16:24.033] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[08мая2026 13:16:24.034] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[08мая2026 13:16:24.034] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[08мая2026 13:16:24.034] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[08мая2026 13:16:24.036] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[08мая2026 13:16:24.036] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[08мая2026 13:16:25.160] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:brown_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:maroon_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:red_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:vermilion_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:orange_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:granite_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:dripstone_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:ochrum_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:yellow_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:chartreuse_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:olive_green_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:lime_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:green_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:pine_green_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:cyan_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:sea_green_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:turquoise_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:light_blue_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:blue_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:royal_blue_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:purple_locometal_flywheel
+[08мая2026 13:16:25.161] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:magenta_locometal_flywheel
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:pink_locometal_flywheel
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:white_locometal_flywheel
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:diorite_locometal_flywheel
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:limestone_locometal_flywheel
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:light_gray_locometal_flywheel
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:tuff_locometal_flywheel
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:gray_locometal_flywheel
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:scorchia_locometal_flywheel
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:black_locometal_flywheel
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:sliding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:folding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:brown_sliding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:brown_folding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:maroon_sliding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:maroon_folding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:red_sliding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:red_folding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:vermilion_sliding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:vermilion_folding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:orange_sliding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:orange_folding_locometal_door
+[08мая2026 13:16:25.162] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:granite_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:granite_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:dripstone_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:dripstone_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:ochrum_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:ochrum_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:yellow_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:yellow_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:chartreuse_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:chartreuse_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:olive_green_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:olive_green_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:lime_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:lime_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:green_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:green_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:pine_green_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:pine_green_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:cyan_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:cyan_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:sea_green_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:sea_green_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:turquoise_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:turquoise_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:light_blue_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:light_blue_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:blue_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:blue_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:royal_blue_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:royal_blue_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:purple_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:purple_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:magenta_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:magenta_folding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:pink_sliding_locometal_door
+[08мая2026 13:16:25.164] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:pink_folding_locometal_door
+[08мая2026 13:16:25.165] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:white_sliding_locometal_door
+[08мая2026 13:16:25.165] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:white_folding_locometal_door
+[08мая2026 13:16:25.165] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:diorite_sliding_locometal_door
+[08мая2026 13:16:25.165] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:diorite_folding_locometal_door
+[08мая2026 13:16:25.165] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:limestone_sliding_locometal_door
+[08мая2026 13:16:25.165] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:limestone_folding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:light_gray_sliding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:light_gray_folding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:tuff_sliding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:tuff_folding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:gray_sliding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:gray_folding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:scorchia_sliding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:scorchia_folding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:black_sliding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:black_folding_locometal_door
+[08мая2026 13:16:25.166] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:copycat and railways:conductor_vent
+[08мая2026 13:16:25.205] [main/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:track_signal and railways:track_signal_source
+[08мая2026 13:16:25.205] [main/INFO] [Railways/MultiRegistryCallback/]: Running finalizers
+[08мая2026 13:16:25.265] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\nnjkb\OneDrive\Рабочий стол\Новая папка\CreateServer\Server\config\railways-common.toml is not correct. Correcting
+[08мая2026 13:16:25.265] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key registerMissingTracks was corrected from null to its default, false. 
+[08мая2026 13:16:25.266] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableDatafixer was corrected from null to its default, false. 
+[08мая2026 13:16:25.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08мая2026 13:16:25.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.4.20 Target: null
+[08мая2026 13:16:26.815] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08мая2026 13:16:26.860] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+mixinextras (version 0.4.1 -> MISSING)
+Things may not work well.
+[08мая2026 13:16:27.914] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/nnjkb/OneDrive/Рабочий%20стол/Новая%20папка/CreateServer/Server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23105!/assets/.mcassetsroot' uses unexpected schema
+[08мая2026 13:16:27.914] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/nnjkb/OneDrive/Рабочий%20стол/Новая%20папка/CreateServer/Server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23105!/data/.mcassetsroot' uses unexpected schema
+[08мая2026 13:16:27.994] [main/INFO] [com.simibubi.create.Create/]: Created 157 recipes which will be injected into the game
+[08мая2026 13:16:28.000] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
+[08мая2026 13:16:28.030] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:mixinextras
+[08мая2026 13:16:29.011] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[08мая2026 13:16:29.078] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3683 advancements
+[08мая2026 13:16:30.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08мая2026 13:16:30.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08мая2026 13:16:30.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08мая2026 13:16:30.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08мая2026 13:16:30.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:2000
+[08мая2026 13:16:30.547] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[08мая2026 13:16:30.648] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08мая2026 13:16:30.648] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08мая2026 13:16:30.648] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08мая2026 13:16:30.648] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08мая2026 13:16:30.669] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\railways-server.toml is not correct. Correcting
+[08мая2026 13:16:30.670] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[08мая2026 13:16:30.670] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.strictCoupler was corrected from null to its default, false. 
+[08мая2026 13:16:30.671] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.flipDistantSwitches was corrected from null to its default, true. 
+[08мая2026 13:16:30.671] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.switchPlacementRange was corrected from null to its default, 64. 
+[08мая2026 13:16:30.671] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.creeperTrackDamage was corrected from null to its default, false. 
+[08мая2026 13:16:30.671] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.handcarHungerMultiplier was corrected from null to its default, 0.009999999776482582. 
+[08мая2026 13:16:30.671] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.rollersClearSnow was corrected from null to its default, true. 
+[08мая2026 13:16:30.671] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.unlimitedCreativeRelocation was corrected from null to its default, false. 
+[08мая2026 13:16:30.672] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key semaphores was corrected from null to its default, SimpleCommentedConfig:{}. 
+[08мая2026 13:16:30.672] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key semaphores.simplifiedPlacement was corrected from null to its default, true. 
+[08мая2026 13:16:30.672] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key semaphores.flipYellowOrder was corrected from null to its default, false. 
+[08мая2026 13:16:30.673] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key conductors was corrected from null to its default, SimpleCommentedConfig:{}. 
+[08мая2026 13:16:30.673] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key conductors.mustOwnBoundTrain was corrected from null to its default, false. 
+[08мая2026 13:16:30.673] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key conductors.maxConductorVentLength was corrected from null to its default, 64. 
+[08мая2026 13:16:30.674] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key conductors.whistleRebindRate was corrected from null to its default, 10. 
+[08мая2026 13:16:30.675] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key realism was corrected from null to its default, SimpleCommentedConfig:{}. 
+[08мая2026 13:16:30.675] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key realism.realisticTrains was corrected from null to its default, false. 
+[08мая2026 13:16:30.675] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key realism.realisticFuelTanks was corrected from null to its default, true. 
+[08мая2026 13:16:30.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08мая2026 13:16:31.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08мая2026 13:16:33.299] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08мая2026 13:16:33.307] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08мая2026 13:16:33.312] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08мая2026 13:16:33.314] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08мая2026 13:16:33.467] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08мая2026 13:16:33.909] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08мая2026 13:16:34.409] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08мая2026 13:16:34.900] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3491 ms
+[08мая2026 13:16:34.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.240s)! For help, type "help"
+[08мая2026 13:16:34.923] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08мая2026 13:16:38.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KapcheniMR[/[fe80::4562:de0c:3d81:21a9]:53433] logged in with entity id 191 at (126.70787640818156, 75.85087849234657, 213.75172931032284)
+[08мая2026 13:16:39.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR joined the game
+[08мая2026 13:18:42.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Disconnected
+[08мая2026 13:18:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
+[08мая2026 13:18:49.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08мая2026 13:18:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08мая2026 13:18:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08мая2026 13:18:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08мая2026 13:18:49.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08мая2026 13:18:49.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08мая2026 13:18:49.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08мая2026 13:18:49.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08мая2026 13:18:49.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08мая2026 13:18:49.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08мая2026 13:18:49.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
