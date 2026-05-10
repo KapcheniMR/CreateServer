@@ -1,63 +1,31 @@
-[10мая2026 00:01:01.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KeshNinja was burnt to a crisp whilst fighting Blaze
-[10мая2026 00:07:07.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KapcheniMR: Banned listochek_bem: Banned by an operator.]
-[10мая2026 00:10:19.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KeshNinja lost connection: Disconnected
-[10мая2026 00:10:19.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KeshNinja left the game
-[10мая2026 00:11:54.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR has made the advancement [Bonk!]
-[10мая2026 00:21:41.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: prokenya lost connection: Disconnected
-[10мая2026 00:21:41.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: prokenya left the game
-[10мая2026 00:24:41.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KapcheniMR> -350 -450
-[10мая2026 00:24:43.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xstena_> -358 -450
-[10мая2026 00:43:10.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ was slain by KapcheniMR
-[10мая2026 00:43:41.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xstena_ lost connection: Disconnected
-[10мая2026 00:43:41.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ left the game
-[10мая2026 00:43:53.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xstena_[/26.45.153.160:52474] logged in with entity id 45422 at (-131.74755791309673, 64.0, -178.54958807682922)
-[10мая2026 00:43:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ joined the game
-[10мая2026 00:43:53.437] [Server thread/INFO] [Jade/]: Syncing config to Xstena_ (738496b4-c07c-39ff-8a58-4c1a38dab911)
-[10мая2026 00:55:54.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Disconnected
-[10мая2026 00:55:54.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
-[10мая2026 00:56:47.649] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KapcheniMR[/[fdfd::1a86:d251]:64599] logged in with entity id 48858 at (510.6018016576018, 78.0, -255.67050993724834)
-[10мая2026 00:56:47.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR joined the game
-[10мая2026 00:56:47.668] [Server thread/INFO] [Jade/]: Syncing config to KapcheniMR (937cab46-5b1a-3319-b792-44fd92f1d8f0)
-[10мая2026 01:10:36.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xstena_ lost connection: Disconnected
-[10мая2026 01:10:36.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ left the game
-[10мая2026 01:11:07.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xstena_[/26.45.153.160:51480] logged in with entity id 52900 at (-65.67576572464448, 69.0, -234.1188359358563)
-[10мая2026 01:11:07.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ joined the game
-[10мая2026 01:11:07.577] [Server thread/INFO] [Jade/]: Syncing config to Xstena_ (738496b4-c07c-39ff-8a58-4c1a38dab911)
-[10мая2026 01:13:11.210] [Server thread/INFO] [com.simibubi.create.Create/]: RecipeTrie of depth 5 with 967 nodes built with 1710 variants, 493 ingredients, and 1827 recipes
-[10мая2026 01:14:38.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR has made the advancement [The Brass Age]
-[10мая2026 01:23:31.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xstena_ lost connection: Disconnected
-[10мая2026 01:23:31.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ left the game
-[10мая2026 01:24:00.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xstena_[/26.45.153.160:53775] logged in with entity id 56667 at (175.62440812772945, 62.07326432466507, 493.1493946161155)
-[10мая2026 01:24:00.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ joined the game
-[10мая2026 01:24:00.301] [Server thread/INFO] [Jade/]: Syncing config to Xstena_ (738496b4-c07c-39ff-8a58-4c1a38dab911)
-[10мая2026 01:38:15.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Disconnected
-[10мая2026 01:38:15.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
-[10мая2026 01:38:46.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KapcheniMR[/[fdfd::1a86:d251]:54561] logged in with entity id 60364 at (-62.357159463288234, 67.5, -196.87234301488053)
-[10мая2026 01:38:46.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR joined the game
-[10мая2026 01:38:46.929] [Server thread/INFO] [Jade/]: Syncing config to KapcheniMR (937cab46-5b1a-3319-b792-44fd92f1d8f0)
-[10мая2026 01:50:15.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Disconnected
-[10мая2026 01:50:15.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
-[10мая2026 02:05:16.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ has made the advancement [Hot Stuff]
-[10мая2026 02:05:35.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ hit the ground too hard whilst trying to escape Skeleton
-[10мая2026 02:10:49.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ was shot by Skeleton
-[10мая2026 02:11:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ was shot by Skeleton
-[10мая2026 02:11:09.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xstena_ moved too quickly! -0.8447160972400383,0.0,10.546898435905007
-[10мая2026 02:15:01.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xstena_ lost connection: Disconnected
-[10мая2026 02:15:01.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ left the game
-[10мая2026 02:15:14.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xstena_[/26.45.153.160:54856] logged in with entity id 65880 at (-49.049032634667476, 63.0, -201.30000001192093)
-[10мая2026 02:15:14.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xstena_ joined the game
-[10мая2026 02:15:14.767] [Server thread/INFO] [Jade/]: Syncing config to Xstena_ (738496b4-c07c-39ff-8a58-4c1a38dab911)
-[10мая2026 02:28:22.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[10мая2026 02:28:22.577] [Server thread/INFO] [BlueMap/]: BlueMap unloaded!
-[10мая2026 02:28:22.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[10мая2026 02:28:22.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[10мая2026 02:28:22.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[10мая2026 02:28:22.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10мая2026 02:28:22.629] [Server thread/INFO] [Create Missiles/]: Saving explosions
-[10мая2026 02:28:22.632] [Server thread/INFO] [Create Missiles/]: Saving drones
-[10мая2026 02:28:22.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10мая2026 02:28:22.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10мая2026 02:28:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10мая2026 02:28:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10мая2026 02:28:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10мая2026 02:28:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11мая2026 00:05:56.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: prokenya lost connection: Disconnected
+[11мая2026 00:05:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: prokenya left the game
+[11мая2026 00:55:21.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Disconnected
+[11мая2026 00:55:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
+[11мая2026 00:59:32.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KapcheniMR[/[fdfd::1a86:d251]:49248] logged in with entity id 78769 at (-57.30000001192093, 31.0, -197.51860675545987)
+[11мая2026 00:59:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR joined the game
+[11мая2026 00:59:32.928] [Server thread/INFO] [Jade/]: Syncing config to KapcheniMR (937cab46-5b1a-3319-b792-44fd92f1d8f0)
+[11мая2026 00:59:40.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KapcheniMR: Set own game mode to Spectator Mode]
+[11мая2026 00:59:51.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KapcheniMR: Set own game mode to Creative Mode]
+[11мая2026 00:59:51.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KapcheniMR: Set own game mode to Survival Mode]
+[11мая2026 01:03:19.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Disconnected
+[11мая2026 01:03:19.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
+[11мая2026 01:11:31.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KapcheniMR[/[fdfd::1a86:d251]:49401] logged in with entity id 81742 at (-57.48750001192093, 62.38711600589643, -188.69999998807907)
+[11мая2026 01:11:31.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR joined the game
+[11мая2026 01:11:31.694] [Server thread/INFO] [Jade/]: Syncing config to KapcheniMR (937cab46-5b1a-3319-b792-44fd92f1d8f0)
+[11мая2026 01:13:20.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KapcheniMR: Stopping the server]
+[11мая2026 01:13:20.465] [Server thread/INFO] [BlueMap/]: BlueMap unloaded!
+[11мая2026 01:13:20.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11мая2026 01:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11мая2026 01:13:20.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Server closed
+[11мая2026 01:13:20.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
+[11мая2026 01:13:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11мая2026 01:13:20.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11мая2026 01:13:20.578] [Server thread/INFO] [Create Missiles/]: Saving explosions
+[11мая2026 01:13:20.582] [Server thread/INFO] [Create Missiles/]: Saving drones
+[11мая2026 01:13:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11мая2026 01:13:20.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11мая2026 01:13:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11мая2026 01:13:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11мая2026 01:13:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11мая2026 01:13:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
