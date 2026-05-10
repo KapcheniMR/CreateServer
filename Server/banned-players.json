@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "2fce6ef9-ee9d-3d01-b192-61da2d77140c",
+    "name": "listochek_bem",
+    "created": "2026-05-10 00:07:07 +0300",
+    "source": "KapcheniMR",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
