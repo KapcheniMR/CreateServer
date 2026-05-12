@@ -1,0 +1,11 @@
+#Discord channel ID where the status message is posted
+#Range: 0 ~ 9223372036854775807
+discordChannelId = 1502216036064170115
+#Whether to show offline top players in Discord message
+offlineTopEnabled = true
+#Discord embed title
+discordEmbedTitle = "Minecraft Server Status"
+#Maximum number of offline players to show in the embed
+#Range: 1 ~ 500
+maxOfflineLines = 50
+

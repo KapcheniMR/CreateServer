@@ -6721,6 +6721,96 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-05-10 17:40:12 +0300"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2026-05-10 17:41:49 +0300"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2026-05-10 17:41:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-05-10 18:06:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2026-05-10 18:06:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-05-10 18:41:36 +0300"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2026-05-10 18:41:36 +0300"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-05-10 18:41:36 +0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2026-05-10 18:41:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-05-10 18:41:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2026-05-10 18:57:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2026-05-10 18:57:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2026-05-10 18:58:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2026-05-10 18:58:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2026-05-10 18:58:37 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2026-05-10 18:58:44 +0300"
@@ -6739,21 +6829,9 @@
     },
     "done": true
   },
-  "create:crushing_wheel": {
-    "criteria": {
-      "0": "2026-05-10 17:41:49 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2026-05-10 18:58:44 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2026-05-10 18:57:29 +0300"
     },
     "done": true
   },
@@ -6805,27 +6883,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2026-05-10 18:41:36 +0300"
-    },
-    "done": true
-  },
-  "create_new_age:recipes/misc/shaped/reactor_fuel_acceptor": {
-    "criteria": {
-      "criterion": "2026-05-10 19:27:54 +0300"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/tiled_red_brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2026-05-10 18:58:44 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2026-05-10 18:57:29 +0300"
     },
     "done": true
   },
@@ -6853,18 +6913,6 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/copper_catwalk_stairs": {
-    "criteria": {
-      "has_item": "2026-05-10 19:25:13 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_shingle_slab": {
-    "criteria": {
-      "has_copper_shingles": "2026-05-10 19:25:20 +0300"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/long_red_brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2026-05-10 18:58:44 +0300"
@@ -6877,39 +6925,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2026-05-10 18:58:37 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2026-05-10 18:58:44 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_shingle_stairs": {
-    "criteria": {
-      "has_copper_shingles": "2026-05-10 19:25:20 +0300"
-    },
-    "done": true
-  },
-  "create:crusher_maxed_0000": {
-    "criteria": {
-      "0": "2026-05-10 17:41:49 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2026-05-10 17:40:12 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2026-05-10 18:58:37 +0300"
     },
     "done": true
   },
@@ -6919,39 +6937,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_hull": {
-    "criteria": {
-      "has_item": "2026-05-10 18:41:36 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2026-05-10 18:06:55 +0300"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2026-05-10 18:41:36 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2026-05-10 18:06:10 +0300"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_smelting": {
     "criteria": {
       "has_bricks": "2026-05-10 18:58:44 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/copper/waxed_copper_shingles_from_honeycomb": {
-    "criteria": {
-      "has_unwaxed": "2026-05-10 19:25:20 +0300"
     },
     "done": true
   },
@@ -6961,39 +6949,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2026-05-10 18:58:37 +0300"
-    },
-    "done": true
-  },
-  "create_new_age:recipes/misc/shaped/reactor_glass": {
-    "criteria": {
-      "criterion": "2026-05-10 19:27:54 +0300"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/stonecutting/riveted_locometal": {
-    "criteria": {
-      "has_item": "2026-05-10 18:41:36 +0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_shingle_slab_from_copper_shingles_stonecutting": {
-    "criteria": {
-      "has_copper_shingles": "2026-05-10 19:25:20 +0300"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/short_red_brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2026-05-10 18:58:44 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2026-05-10 18:41:36 +0300"
     },
     "done": true
   },
@@ -7003,9 +6961,39 @@
     },
     "done": true
   },
-  "create_new_age:recipes/misc/shapeless/reactor_heat_vent": {
+  "createdeco:recipes/building_blocks/short_red_brick_slab_from_bricks_stonecutting": {
     "criteria": {
-      "criterion": "2026-05-10 19:27:54 +0300"
+      "has_bricks": "2026-05-10 18:58:44 +0300"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_stairs": {
+    "criteria": {
+      "has_item": "2026-05-10 19:25:13 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_slab": {
+    "criteria": {
+      "has_copper_shingles": "2026-05-10 19:25:20 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_stairs": {
+    "criteria": {
+      "has_copper_shingles": "2026-05-10 19:25:20 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_copper_shingles_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2026-05-10 19:25:20 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_slab_from_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_copper_shingles": "2026-05-10 19:25:20 +0300"
     },
     "done": true
   },
@@ -7015,9 +7003,129 @@
     },
     "done": true
   },
-  "createdeco:recipes/building_blocks/short_red_brick_slab_from_bricks_stonecutting": {
+  "create_new_age:recipes/misc/shaped/reactor_fuel_acceptor": {
     "criteria": {
-      "has_bricks": "2026-05-10 18:58:44 +0300"
+      "criterion": "2026-05-10 19:27:54 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/reactor_glass": {
+    "criteria": {
+      "criterion": "2026-05-10 19:27:54 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shapeless/reactor_heat_vent": {
+    "criteria": {
+      "criterion": "2026-05-10 19:27:54 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/heater": {
+    "criteria": {
+      "criterion": "2026-05-11 18:05:02 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/advanced_solar_heating_plate": {
+    "criteria": {
+      "criterion": "2026-05-11 18:05:02 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/basic_solar_heating_plate": {
+    "criteria": {
+      "criterion": "2026-05-11 18:05:02 +0300"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/stirling_engine": {
+    "criteria": {
+      "criterion": "2026-05-11 18:05:02 +0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2026-05-11 18:06:56 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2026-05-11 18:06:56 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2026-05-11 18:06:56 +0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2026-05-11 18:06:56 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2026-05-11 18:28:36 +0300"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2026-05-11 18:30:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-05-11 18:50:17 +0300"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2026-05-11 18:50:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2026-05-11 18:50:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2026-05-11 18:50:17 +0300"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-05-11 18:50:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-05-11 18:50:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2026-05-11 18:50:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-05-11 18:50:17 +0300"
     },
     "done": true
   },

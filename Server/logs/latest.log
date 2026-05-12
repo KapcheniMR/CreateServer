@@ -1,31 +1,18 @@
-[11мая2026 00:05:56.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: prokenya lost connection: Disconnected
-[11мая2026 00:05:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: prokenya left the game
-[11мая2026 00:55:21.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Disconnected
-[11мая2026 00:55:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
-[11мая2026 00:59:32.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KapcheniMR[/[fdfd::1a86:d251]:49248] logged in with entity id 78769 at (-57.30000001192093, 31.0, -197.51860675545987)
-[11мая2026 00:59:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR joined the game
-[11мая2026 00:59:32.928] [Server thread/INFO] [Jade/]: Syncing config to KapcheniMR (937cab46-5b1a-3319-b792-44fd92f1d8f0)
-[11мая2026 00:59:40.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KapcheniMR: Set own game mode to Spectator Mode]
-[11мая2026 00:59:51.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KapcheniMR: Set own game mode to Creative Mode]
-[11мая2026 00:59:51.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KapcheniMR: Set own game mode to Survival Mode]
-[11мая2026 01:03:19.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Disconnected
-[11мая2026 01:03:19.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
-[11мая2026 01:11:31.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KapcheniMR[/[fdfd::1a86:d251]:49401] logged in with entity id 81742 at (-57.48750001192093, 62.38711600589643, -188.69999998807907)
-[11мая2026 01:11:31.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR joined the game
-[11мая2026 01:11:31.694] [Server thread/INFO] [Jade/]: Syncing config to KapcheniMR (937cab46-5b1a-3319-b792-44fd92f1d8f0)
-[11мая2026 01:13:20.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KapcheniMR: Stopping the server]
-[11мая2026 01:13:20.465] [Server thread/INFO] [BlueMap/]: BlueMap unloaded!
-[11мая2026 01:13:20.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[11мая2026 01:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[11мая2026 01:13:20.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Server closed
-[11мая2026 01:13:20.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
-[11мая2026 01:13:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[11мая2026 01:13:20.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11мая2026 01:13:20.578] [Server thread/INFO] [Create Missiles/]: Saving explosions
-[11мая2026 01:13:20.582] [Server thread/INFO] [Create Missiles/]: Saving drones
-[11мая2026 01:13:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11мая2026 01:13:20.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11мая2026 01:13:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11мая2026 01:13:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11мая2026 01:13:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11мая2026 01:13:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12мая2026 00:01:51.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=65, z=-154} BlockPos{x=-77, y=68, z=-155}
+[12мая2026 00:01:51.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=65, z=-154} BlockPos{x=-77, y=67, z=-155}
+[12мая2026 00:33:33.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KapcheniMR lost connection: Disconnected
+[12мая2026 00:33:33.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KapcheniMR left the game
+[12мая2026 01:02:48.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12мая2026 01:02:49.563] [Server thread/INFO] [BlueMap/]: BlueMap unloaded!
+[12мая2026 01:02:49.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12мая2026 01:02:49.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12мая2026 01:02:49.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12мая2026 01:02:49.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12мая2026 01:02:49.638] [Server thread/INFO] [Create Missiles/]: Saving explosions
+[12мая2026 01:02:49.640] [Server thread/INFO] [Create Missiles/]: Saving drones
+[12мая2026 01:02:49.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12мая2026 01:02:49.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12мая2026 01:02:49.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12мая2026 01:02:49.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12мая2026 01:02:49.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12мая2026 01:02:49.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
